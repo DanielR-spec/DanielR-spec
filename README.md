@@ -23,7 +23,7 @@
 -->
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚂𝚢𝚜𝚝𝚎𝚖𝚜 𝚎𝚗𝚐𝚒𝚗𝚗𝚎𝚛𝚒𝚗𝚐 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝙿𝚘𝚗𝚝𝚒𝚏𝚒𝚌𝚒𝚊 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚍𝚊𝚍 𝙹𝚊𝚟𝚎𝚛𝚒𝚊𝚗𝚊
+- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚂𝚢𝚜𝚝𝚎𝚖𝚜 𝚎𝚗𝚐𝚒𝚗𝚗𝚎𝚛𝚒𝚗𝚐 𝚊𝚝 𝙿𝚘𝚗𝚝𝚒𝚏𝚒𝚌𝚒𝚊 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚍𝚊𝚍 𝙹𝚊𝚟𝚎𝚛𝚒𝚊𝚗𝚊
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
@@ -36,9 +36,6 @@
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
