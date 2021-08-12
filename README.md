@@ -21,6 +21,8 @@
 	</tr>
 </table>
 -->
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=DanielR-spec.DanielR-spec&color=00cf00)
+
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚂𝚢𝚜𝚝𝚎𝚖𝚜 𝚎𝚗𝚐𝚒𝚗𝚗𝚎𝚛𝚒𝚗𝚐 𝚊𝚝 𝙿𝚘𝚗𝚝𝚒𝚏𝚒𝚌𝚒𝚊 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚍𝚊𝚍 𝙹𝚊𝚟𝚎𝚛𝚒𝚊𝚗𝚊
