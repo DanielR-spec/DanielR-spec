@@ -21,7 +21,7 @@
 	</tr>
 </table>
 -->
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=DanielR-spec.DanielR-spec&color=ff0000)
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=DanielR-spec.DanielR-spec&color=00ffff)
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
