@@ -1,26 +1,3 @@
-<!--
-<table>
-	<tr>
-	</tr>
-	<tr>
-		<th>
-			<h2><code>𝚂𝚙𝚎𝚌𝚒𝚊𝚕</code>: 𝙸'𝚖 𝚙𝚊𝚛𝚝𝚒𝚌𝚒𝚙𝚊𝚝𝚒𝚗𝚐 𝚒𝚗 𝙷𝚊𝚌𝚔𝚝𝚘𝚋𝚎𝚛𝚏𝚎𝚜𝚝!</h2>
-			𝙰𝚗𝚢𝚘𝚗𝚎 𝚠𝚑𝚘 𝚠𝚊𝚗𝚝𝚜 𝚝𝚘 𝚒𝚜 𝚠𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚙𝚊𝚛𝚝𝚒𝚌𝚒𝚙𝚊𝚝𝚎! 𝙹𝚞𝚜𝚝 𝚜𝚒𝚐𝚗 𝚞𝚙 𝚊𝚝 <a href="https://hacktoberfest.digitalocean.com/">𝚑𝚝𝚝𝚙𝚜://𝚑𝚊𝚌𝚔𝚝𝚘𝚋𝚎𝚛𝚏𝚎𝚜𝚝.𝚍𝚒𝚐𝚒𝚝𝚊𝚕𝚘𝚌𝚎𝚊𝚗.𝚌𝚘𝚖/</a>.
-				<br>𝙱𝚊𝚜𝚒𝚌𝚊𝚕𝚕𝚢, 𝚖𝚊𝚔𝚎 𝟺 𝙿𝚁𝚜 𝚝𝚘 𝙶𝚒𝚝𝙷𝚞𝚋 𝚛𝚎𝚙𝚘𝚜 𝚊𝚗𝚍 𝚐𝚎𝚝 𝚝𝚑𝚎𝚖 𝚖𝚎𝚛𝚐𝚎𝚍 𝚘𝚛 𝚝𝚊𝚐𝚐𝚎𝚍 <code>hacktoberfest-accepted</code> 𝚠𝚒𝚕𝚕 𝚐𝚎𝚝 𝚌𝚘𝚘𝚕&nbsp𝚜𝚠𝚊𝚐!
-		</th>
-	</tr>
-	<tr>
-		<td>
-				<b>𝙻𝚒𝚜𝚝 𝚘𝚏 𝚖𝚢 𝚛𝚎𝚙𝚘𝚜 𝚙𝚊𝚛𝚝𝚒𝚌𝚒𝚙𝚊𝚝𝚒𝚗𝚐 𝚒𝚗 𝚝𝚑𝚒𝚜 𝚊𝚠𝚎𝚜𝚘𝚖𝚎 𝚎𝚟𝚎𝚗𝚝:<b>
-				<ul>
-					<li><a href="https://github.com/Raymo111/emoji">𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚎𝚖𝚘𝚓𝚒</a></li>
-					<li><a href="https://github.com/Raymo111/drracket-customization">𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚍𝚛𝚛𝚊𝚌𝚔𝚎𝚝-𝚌𝚞𝚜𝚝𝚘𝚖𝚒𝚣𝚊𝚝𝚒𝚘𝚗</a></li>
-					<li><a href="https://github.com/Raymo111/i3lock-color">𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛</a></li>
-				</ul>
-		</td>
-	</tr>
-</table>
--->
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=DanielR-spec.DanielR-spec&color=00ffff)
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
@@ -35,7 +12,6 @@
 
 ## 🔧 **𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜**
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
@@ -46,7 +22,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/DanielR-spec/DanielR-spec">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielR-spe&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/DanielR-spec/DanielR-spec">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielR-spec&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Daniel's GitHub Stats" />
