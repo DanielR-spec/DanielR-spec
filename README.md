@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?username.visitor.badge.reloaded=DanielR-spec&color=00ffff)
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=js-pjax-container&color=55acb7&style=for-the-badge&logo=Github)
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
