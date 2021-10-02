@@ -9,7 +9,7 @@
 	- 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚒𝚗𝚐 𝚊 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚏𝚘𝚛 𝚊 𝚖𝚎𝚍𝚒𝚞𝚖-𝚜𝚒𝚣𝚎𝚍 𝚘𝚛𝚐𝚊𝚗𝚒𝚣𝚊𝚝𝚒𝚘𝚗
 
 ## 🔧 **𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜**
-![](https://img.shields.io/badge/OS-Java-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-C-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
