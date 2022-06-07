@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/Code-HTML-informational?style=plastic&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=plastic&logo=css&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=plastic&logo=C&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-dotnet-informational?style=plastic&logo=dotnet&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=plastic&logo=dotnet&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=plastic&logo=C+&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=plastic&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
