@@ -23,7 +23,7 @@
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DanielR-spec&show_icons=true&theme=algolia&count_private=true" alt="statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anielR-spec&layout=compact&theme=algolia" alt="top-languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielR-spec&layout=compact&theme=algolia" alt="top-languages">
 </p>
   
 <br/>
