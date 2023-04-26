@@ -14,10 +14,6 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=plastic&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
-  <tr>
-        <td  align="center">
-        <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
-  </tr>
 
 ## ⚡ 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚌𝚘𝚘𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚠𝚎𝚗𝚝 𝚒𝚗𝚝𝚘 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎
 - 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚜𝚒𝚝 𝚌𝚘𝚞𝚗𝚝 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝙽𝚊𝚝𝚑𝚊𝚗𝟷𝟹𝟾𝟾𝟾/𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝙱𝚊𝚍𝚐𝚎𝚁𝚎𝚕𝚘𝚊𝚍𝚎𝚍](https://github.com/Nathan13888/VisitorBadgeReloaded)
